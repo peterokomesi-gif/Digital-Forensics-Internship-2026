@@ -96,3 +96,13 @@ Throughout this internship I completed daily practical modules, documented findi
 ---
 
 ## Repository Structure
+Digital-Forensics-Internship-2026/
+│
+├── README.md
+├── Daily-Reports/
+├── Notes/
+├── Labs/
+├── Screenshots/
+├── Tools/
+├── Resources/
+└── Certificates/
